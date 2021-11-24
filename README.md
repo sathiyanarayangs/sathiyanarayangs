@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sathiyanarayangs
-- 🌱 I’m currently learning in Vellore Institute of Technology, Chennai
+- 🌱 I’m currently studying in Vellore Institute of Technology, Chennai
 - 👀 I’m interested in Full Stack Web Development
 
 <!---
